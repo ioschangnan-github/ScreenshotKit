@@ -1,0 +1,16 @@
+PODS:
+  - ScreenshotKit (0.1.0)
+
+DEPENDENCIES:
+  - ScreenshotKit (from `../`)
+
+EXTERNAL SOURCES:
+  ScreenshotKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ScreenshotKit: be894d7097fda1bf297e7bbefeb7649d8079887b
+
+PODFILE CHECKSUM: c12d9552ddb2bda49b4bf90efea65c0ffed9ffdb
+
+COCOAPODS: 1.5.3

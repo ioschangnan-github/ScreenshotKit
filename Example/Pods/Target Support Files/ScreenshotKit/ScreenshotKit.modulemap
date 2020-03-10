@@ -1,0 +1,6 @@
+framework module ScreenshotKit {
+  umbrella header "ScreenshotKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
