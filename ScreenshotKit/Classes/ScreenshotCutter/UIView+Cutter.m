@@ -31,4 +31,8 @@
     return img;
 }
 
+-(void)testEvent{
+    NSLog(@"----这是0.1.1版本");
+}
+
 @end

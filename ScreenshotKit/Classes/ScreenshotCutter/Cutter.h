@@ -9,8 +9,9 @@
 #import "UIView+Cutter.h"
 #import "UIScrollView+Cutter.h"
 
+
 /*
- 
+ // s.version          = '0.1.1'
 //  使用说明
 
 //  没有导航和tabbar

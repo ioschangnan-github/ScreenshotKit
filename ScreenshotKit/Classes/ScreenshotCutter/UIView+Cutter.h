@@ -17,4 +17,6 @@
  */
 - (UIImage*)viewCutter;
 
+-(void)testEvent;
+
 @end

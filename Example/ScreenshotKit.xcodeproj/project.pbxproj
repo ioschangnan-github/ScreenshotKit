@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1227EAEC57679644DCDFD39D /* ScreenshotKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ScreenshotKit.podspec; path = ../ScreenshotKit.podspec; sourceTree = "<group>"; };
+		1227EAEC57679644DCDFD39D /* ScreenshotKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ScreenshotKit.podspec; path = ../ScreenshotKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1505D6691DFCAA1E0E0EB1F2 /* Pods-ScreenshotKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenshotKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenshotKit_Tests/Pods-ScreenshotKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		35A3EAE7300AAD2DAA2DD12A /* Pods_ScreenshotKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScreenshotKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* ScreenshotKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScreenshotKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };

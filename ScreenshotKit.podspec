@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ScreenshotKit'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of ScreenshotKit.'
+  s.version          = '0.1.1'
+  s.summary          = '这是一个完整列表或者控件截图的组件'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/ioschangnan@163.com/ScreenshotKit'
+  s.homepage         = 'https://github.com/ioschangnan-github'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ioschangnan@163.com' => 'APP@hkaspire.cn' }
-  s.source           = { :git => 'https://github.com/ioschangnan@163.com/ScreenshotKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ioschangnan-github/ScreenshotKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'ScreenshotKit/Classes/**/*'
   
